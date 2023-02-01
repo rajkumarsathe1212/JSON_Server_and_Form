@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rajkumar",
+      "email": "raj1212@gmail.com",
+      "number": 8177555555
+    },
+    {
+      "id": 2,
+      "name": "Aniket",
+      "email": "aniket1212@gmail.com",
+      "number": 8177111111
+    },
+    {
+      "id": 3,
+      "name": "Rushi",
+      "email": "rushi1212@gmail.com",
+      "number": 8177222222
+    },
+    {
+      "id": 4,
+      "name": "Vivek",
+      "email": "vivek1212@gmail.com",
+      "number": 8177333333
+    },
+    {
+      "id": 5,
+      "name": "Pradeep",
+      "email": "pradip1212@gmail.com",
+      "number": 8177666666
+    },
+    {
+      "name": "Rajkumar",
+      "email": "r@gmail.com",
+      "number": 23423,
+      "id": 6
+    },
+    {
+      "name": "Pradip",
+      "email": "p@gmail.com",
+      "number": 234234,
+      "id": 8
+    },
+    {
+      "name": "Vivek",
+      "email": "v@gmail.com",
+      "number": 23423,
+      "id": 9
+    },
+    {
+      "name": "Jaydip",
+      "email": "j@gmail.com",
+      "number": 12121212,
+      "id": 10
+    },
+    {
+      "name": "Aniket",
+      "email": "a@gmail.com",
+      "number": 1212,
+      "id": 11
+    },
+    {
+      "name": "Vivek",
+      "email": "v@gmail.com",
+      "number": 25454,
+      "id": 12
+    },
+    {
+      "name": "pradip",
+      "email": "p@gm,ail.cm",
+      "number": 234,
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "raj",
+      "email": "r@gmail.com",
+      "number": 1212
+    }
+  ]
+}
